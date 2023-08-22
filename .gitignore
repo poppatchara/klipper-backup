@@ -2,5 +2,5 @@
 *.code-workspace
 klipper_repos.txt
 moonraker_auth.cfg
-octoeverywhere.cfg 
+octoeverywhere*
 printer-*.cfg
