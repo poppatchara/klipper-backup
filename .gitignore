@@ -4,3 +4,4 @@ klipper_repos.txt
 moonraker_auth.cfg
 octoeverywhere*
 printer-*.cfg
+.moonraker.conf.bkp
